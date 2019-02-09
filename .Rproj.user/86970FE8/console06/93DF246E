@@ -1,0 +1,14 @@
+]0;~/Desktop/Temporary_add_to_versioncontrol[?1034hJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ [KJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ pwd
+/Users/jakeperfetto/Desktop/Temporary_add_to_versioncontrol
+]0;~/Desktop/Temporary_add_to_versioncontrolJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ git init
+Initialized empty Git repository in /Users/jakeperfetto/Desktop/Temporary_add_to_versioncontrol/.git/
+]0;~/Desktop/Temporary_add_to_versioncontrolJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ git add
+Nothing specified, nothing added.
+Maybe you wanted to say 'git add .'?
+]0;~/Desktop/Temporary_add_to_versioncontrolJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ git add .
+]0;~/Desktop/Temporary_add_to_versioncontrolJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ git add .[K[K.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;~/Desktop/Temporary_add_to_versioncontrolJakes-MacBook-Pro:Temporary_add_to_versioncontrol jakeperfetto$ git add.[K .
